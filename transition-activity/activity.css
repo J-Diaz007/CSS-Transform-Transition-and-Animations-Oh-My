@@ -1,1 +1,11 @@
+button {
+    background-color: ghostwhite;
+    border-color: ghostwhite;
+}
 
+button:hover {
+background-color: cornflowerblue;
+border-color: cornflowerblue;
+color: ghostwhite;
+transition: 2s;
+}
